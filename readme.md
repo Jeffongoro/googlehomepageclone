@@ -1,4 +1,4 @@
-# LaslesVPN Website
+# Google Search Homepage
 
 This is a google search homepage clone implementation in tailwind.
 
